@@ -19,22 +19,14 @@ Platform assembly: Z:\GitHub Repositories\BoxStackingGame\BoxStackingGame_Data\M
 Loading Z:\GitHub Repositories\BoxStackingGame\BoxStackingGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
 Platform assembly: Z:\GitHub Repositories\BoxStackingGame\BoxStackingGame_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading Z:\GitHub Repositories\BoxStackingGame\BoxStackingGame_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.020 seconds
+- Completed reload, in  0.021 seconds
 Platform assembly: Z:\GitHub Repositories\BoxStackingGame\BoxStackingGame_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: Z:\GitHub Repositories\BoxStackingGame\BoxStackingGame_Data\Managed\System.dll (this message is harmless)
 desktop: 2560x1440 60Hz; virtual: 5560x1924 at -1080,-484
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 2.174100 ms
-OnTriggerEnter2D
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-OnTriggerEnter2D
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
+UnloadTime: 2.130700 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 4094 -> priority: 1 
-  Thread -> id: 1ffc -> priority: 1 
+  Thread -> id: 4520 -> priority: 1 
+  Thread -> id: 518 -> priority: 1 
