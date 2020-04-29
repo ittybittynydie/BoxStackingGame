@@ -1,0 +1,178 @@
+Initialize engine version: 5.5.4p4 (e92bef0ab5a4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon (TM) RX 480 Graphics (ID=0x67df)
+    Vendor:   ATI
+    VRAM:     3072 MB
+    Driver:   9.17.10.4459
+Begin MonoManager ReloadAssembly
+Platform assembly: Z:\Nyd's User\NydsBackup\Project Drive\Unity Learnings\BoxStackingGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading Z:\Nyd's User\NydsBackup\Project Drive\Unity Learnings\BoxStackingGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: Z:\Nyd's User\NydsBackup\Project Drive\Unity Learnings\BoxStackingGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading Z:\Nyd's User\NydsBackup\Project Drive\Unity Learnings\BoxStackingGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: Z:\Nyd's User\NydsBackup\Project Drive\Unity Learnings\BoxStackingGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading Z:\Nyd's User\NydsBackup\Project Drive\Unity Learnings\BoxStackingGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: Z:\Nyd's User\NydsBackup\Project Drive\Unity Learnings\BoxStackingGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading Z:\Nyd's User\NydsBackup\Project Drive\Unity Learnings\BoxStackingGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: Z:\Nyd's User\NydsBackup\Project Drive\Unity Learnings\BoxStackingGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading Z:\Nyd's User\NydsBackup\Project Drive\Unity Learnings\BoxStackingGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: Z:\Nyd's User\NydsBackup\Project Drive\Unity Learnings\BoxStackingGame_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading Z:\Nyd's User\NydsBackup\Project Drive\Unity Learnings\BoxStackingGame_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.020 seconds
+Platform assembly: Z:\Nyd's User\NydsBackup\Project Drive\Unity Learnings\BoxStackingGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: Z:\Nyd's User\NydsBackup\Project Drive\Unity Learnings\BoxStackingGame_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 60Hz; virtual: 5560x1924 at -1080,-484
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.968700 ms
+OnTriggerEnter2D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTriggerEnter2D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTriggerEnter2D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTriggerEnter2D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.296300 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 311.
+Total: 0.201400 ms (FindLiveObjects: 0.030000 ms CreateObjectMapping: 0.028400 ms MarkObjects: 0.137200 ms  DeleteObjects: 0.004300 ms)
+
+OnTriggerEnter2D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.237900 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 311.
+Total: 0.169400 ms (FindLiveObjects: 0.025500 ms CreateObjectMapping: 0.028700 ms MarkObjects: 0.110600 ms  DeleteObjects: 0.003700 ms)
+
+OnTriggerEnter2D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.244100 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 311.
+Total: 0.179900 ms (FindLiveObjects: 0.026400 ms CreateObjectMapping: 0.028800 ms MarkObjects: 0.120100 ms  DeleteObjects: 0.003700 ms)
+
+OnTriggerEnter2D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.427200 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 311.
+Total: 0.262800 ms (FindLiveObjects: 0.028500 ms CreateObjectMapping: 0.029400 ms MarkObjects: 0.196200 ms  DeleteObjects: 0.007400 ms)
+
+OnTriggerEnter2D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTriggerEnter2D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.425300 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 311.
+Total: 0.278800 ms (FindLiveObjects: 0.028400 ms CreateObjectMapping: 0.028800 ms MarkObjects: 0.212800 ms  DeleteObjects: 0.007700 ms)
+
+OnTriggerEnter2D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.252900 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 311.
+Total: 0.188600 ms (FindLiveObjects: 0.028800 ms CreateObjectMapping: 0.035900 ms MarkObjects: 0.119000 ms  DeleteObjects: 0.004000 ms)
+
+OnTriggerEnter2D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.229200 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 311.
+Total: 0.272400 ms (FindLiveObjects: 0.027300 ms CreateObjectMapping: 0.029900 ms MarkObjects: 0.207100 ms  DeleteObjects: 0.007000 ms)
+
+OnTriggerEnter2D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTriggerEnter2D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTriggerEnter2D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTriggerEnter2D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTriggerEnter2D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTriggerEnter2D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTriggerEnter2D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTriggerEnter2D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTriggerEnter2D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTriggerEnter2D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTriggerEnter2D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTriggerEnter2D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTriggerEnter2D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTriggerEnter2D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnTriggerEnter2D
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3b80 -> priority: 1 
+  Thread -> id: 10b0 -> priority: 1 
